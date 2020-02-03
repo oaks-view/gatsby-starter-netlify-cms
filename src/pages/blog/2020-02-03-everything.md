@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Everything
+title: First post
 date: 2020-02-03T09:57:56.993Z
 description: first article using netlify cms
 featuredpost: true
